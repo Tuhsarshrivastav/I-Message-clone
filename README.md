@@ -1,3 +1,29 @@
+## I-Message-clone 🚀 🚀 🚀
+Live Demo 👉 https://i-message-clone-5bf6a.web.app/
+
+![Screenshot from 2021-02-27 18-40-31](https://user-images.githubusercontent.com/74534919/109388346-7c8bf100-792c-11eb-99b7-6756d185cc6b.png)
+
+![Screenshot from 2021-02-27 18-43-07](https://user-images.githubusercontent.com/74534919/109388355-94637500-792c-11eb-8e97-42b89315b79f.png)
+
+
+
+
+
+<details open="open">
+  <summary>Tools/Packages</summary>
+  <ul><li>React.Js</li>
+     <li>Redux</li>
+     <li>React-Flip-Move</li>
+    <li>CSS-3</li>
+    <li>HTML-5</li>
+    <li>Firebase</li>
+    <li>material-UI/Icon</li>
+     <li>Real-time-chat-functionality</li>
+    <li>Google-Authentication-firebase</li>
+     <li>Google-Login&&-Logout</li>
+    
+  </ul>
+</details>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
